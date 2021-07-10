@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# [MJ-Podcast](https://github.com/duatigajuni-wtf/monologjuni-podcast.github.io)
 
-You can use the [editor on GitHub](https://github.com/MJ-Podcast/monolog-juni.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[MJ-Podcast](https://github.com/duatigajuni-wtf/monologjuni-podcast.github.io) This is a promotion page, only promotion.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Landing Page](https://1.bp.blogspot.com/-xin5ccZIx38/YNF00cVt3iI/AAAAAAAAAlY/AldzJa7-zNUfBGTf1rqjPTgjll9Cd4gpgCLcBGAsYHQ/s2048/duatigajuni-1.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Using the Template
 
-```markdown
-Syntax highlighted code block
+The template is just a HTML file.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Sites created using this template
 
-1. Numbered
-2. List
+* [Pilotmail.io](https://pilotmail.io)
+* [Routepath.app](https://routepath.app)
+* [LedgerSight.com](https://ledgersight.com)
+* [AnonAddy.com](https://anonaddy.com)
+* [MentorCV.com](https://mentorcv.com)
+* [MakerMetrics.co](https://makermetrics.co)
+* [Nodewood.com](https://nodewood.com)
+* [X-Wing AI](https://xwing.app)
 
-**Bold** and _Italic_ and `Code` text
+## Bugs and Issues
 
-[Link](url) and ![Image](src)
-```
+Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Landing-Page/issues/new) here on GitHub.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Copyright and License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MJ-Podcast/monolog-juni.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Copyright 2021 - duatigajuni - All Right Reserved.
